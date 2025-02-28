@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ViwG4Z+wZ/I=",
+  "dgSpecHash": "L5b7Dth7Ozw=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
+  "projectFilePath": "C:\\Projects\\BankingCreditSystem\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayhan\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",
     "C:\\Users\\ayhan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.1.24081.2.nupkg.sha512",
