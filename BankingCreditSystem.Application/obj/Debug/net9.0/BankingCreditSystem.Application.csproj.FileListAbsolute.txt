@@ -1,0 +1,17 @@
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.AssemblyInfoInputs.cache
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.AssemblyInfo.cs
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.CoreCompileInputs.cache
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.AssemblyReference.cache
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.deps.json
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.dll
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.pdb
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Domain.dll
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Domain.pdb
+C:\Projects\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingC.70F8ABEA.Up2Date
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.dll
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\refint\BankingCreditSystem.Application.dll
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.pdb
+C:\Projects\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\ref\BankingCreditSystem.Application.dll
