@@ -10,3 +10,16 @@ C:\Projects\BankApp\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSyste
 C:\Projects\BankApp\BankingCreditSystem.Core\obj\Debug\net9.0\refint\BankingCreditSystem.Core.dll
 C:\Projects\BankApp\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.pdb
 C:\Projects\BankApp\BankingCreditSystem.Core\obj\Debug\net9.0\ref\BankingCreditSystem.Core.dll
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.deps.json
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.csproj.AssemblyReference.cache
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.AssemblyInfoInputs.cache
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.AssemblyInfo.cs
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.csproj.CoreCompileInputs.cache
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.sourcelink.json
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\refint\BankingCreditSystem.Core.dll
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Projects\BankingCreditSystem\BankingCreditSystem.Core\obj\Debug\net9.0\ref\BankingCreditSystem.Core.dll
